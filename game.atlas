@@ -1,0 +1,209 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Coltan Mine
+  rotate: false
+  xy: 836, 238
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fortaleza de Sao Miguel
+  rotate: false
+  xy: 836, 56
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gran Mercado de Tripoli
+  rotate: false
+  xy: 1013, 238
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kasbah
+  rotate: false
+  xy: 1013, 56
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kraal Zulu
+  rotate: false
+  xy: 1190, 238
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lagos Market
+  rotate: false
+  xy: 1190, 56
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Manantial de Ghadames
+  rotate: false
+  xy: 1367, 238
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/Piramides de Meroe
+  rotate: false
+  xy: 1367, 56
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+NationIcons/Angola
+  rotate: false
+  xy: 1544, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Argelia
+  rotate: false
+  xy: 1544, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Libya
+  rotate: false
+  xy: 1544, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Marruecos
+  rotate: false
+  xy: 1652, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Niggeria
+  rotate: false
+  xy: 1760, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Republica del Congo
+  rotate: false
+  xy: 1652, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sudafrica
+  rotate: false
+  xy: 1760, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sudan
+  rotate: false
+  xy: 1868, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/madagascar
+  rotate: false
+  xy: 1760, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Command MPLA
+  rotate: false
+  xy: 1652, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/MPLA
+  rotate: false
+  xy: 1652, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guerrero Garamante
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mujahidin
+  rotate: false
+  xy: 212, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Nubio
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Soldado Mai-Mai
+  rotate: false
+  xy: 420, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Zulu
+  rotate: false
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/ejercito almohade
+  rotate: false
+  xy: 628, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Biafrano carg
+  rotate: false
+  xy: 4, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Soldado Biafrano
+  rotate: false
+  xy: 4, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/idependens ability
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/sudafrica-zulu ability
+  rotate: false
+  xy: 1868, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
