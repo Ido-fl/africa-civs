@@ -1,0 +1,99 @@
+[
+	{//Marruecos's
+		"name": "ejercito almohade",
+		"unitType": "Mounted",
+		"uniqueTo": "Marruecos",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 27,
+		"cost": 90,
+	     "requiredResource": "Horses",
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+	},
+
+
+	{//Angola's
+		"name": "Command MPLA",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Angola",
+		"replaces": "Great War Infantry",
+		"movement": 3,
+		"strength": 40,
+		"cost": 340,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+      	"promotions": ["MPLA"],
+
+	},
+
+	
+
+	{//Niggeria's
+		"name": "Soldado Biafrano",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Niggeria",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 50,
+		"cost": 340,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+      	"promotions": ["Biafrano carg"],
+	},
+
+{//Republica del Congo's
+		"name": "Soldado Mai-Mai",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Republica del Congo",
+		"movement": 2,
+		"strength": 30,
+		"cost": 240,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+           "unique": ["Gives a defensive bonus of [+20]%"],
+	},
+
+{//Argelia's
+		"name": "Mujahidin",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Argelia",
+		"movement": 2,
+		"strength": 55,
+		"cost": 340,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+      	"promotions": ["idependens ability"],
+
+	},
+
+{//Sudafrica's
+		"name": "Zulu",
+		"unitType": "Sword",
+		"uniqueTo": "Sudafrica",
+		"movement": 2,
+		"strength": 7,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"upgradesTo": "Lancer",
+		"replaces": "Pikeman",
+      	"promotions": ["sudafrica-zulu ability"],
+	},
+
+{//Sudan's
+		"name": "Nubio",
+		"unitType": "Archery",
+		"uniqueTo": "Sudan",
+		"movement": 2,
+		"strength": 15,
+	     "rangedStrength": 10,
+		"range": 3,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"upgradesTo": "Crossbowman",
+		"replaces": "Composite Bowman",
+	},
+
+
+
+]

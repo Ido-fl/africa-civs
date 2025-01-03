@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Biafrano carg",
+		"uniques":  ["Gives a attack bonus of [+30]%",]
+	},
+
+	{
+		"name": "MPLA",
+		"uniques": [ "[+10]% Strength bonus for [Wounded] units within [3] tiles","[+10]% to Flank Attack bonuses"]
+	},
+
+		{
+		"name": "sudafrica-zulu ability",
+		"uniques": ["[+15]% Strength vs [melee] units"]
+	},
+{
+		"name": "idependens ability",
+		"uniques": ["[+30]% Strength vs [Wounded] units"]
+	},
+
+
+]

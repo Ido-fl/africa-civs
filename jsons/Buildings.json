@@ -1,0 +1,93 @@
+[
+    { //Marruecos's
+		"name": "Kasbah",
+		"requiredTech": "Engineering",
+		"Cost": 250,
+           "cityStrength": +15,
+           "cityHealth": +60,
+		"happiness": 1,
+		"culture": 3,
+		"specialistSlots": {"Engineer": 1},
+           "uniqueTo": "Marruecos",
+ 
+			},
+
+ { //Angola's
+		"name": "Fortaleza de Sao Miguel",
+		"requiredTech": "Masonry",
+		"remplase": "Walls",
+		"Cost": 80,
+           "cityStrength": +15,
+           "cityHealth": +55,
+		"culture": 2,
+           "uniqueTo": "Angola",        
+},
+
+ { //Niggeria's
+		"name": "Lagos Market",
+		"requiredTech": "Currency",
+		"remplase": "market",
+		"cost": 80,
+		"culture": 1,
+		"food": 2,	
+       	"gold": 5,
+           "uniqueTo": "Niggeria",        
+},
+
+ { //Republica del Congo's
+		"name": "Coltan Mine",
+		"requiredTech": "Chemistry",
+		"cost": 125,
+		"culture": 2,
+		"food": 1,	
+       	"production": 10,
+		"specialistSlots": {"Engineer": 1},
+           "uniqueTo": "Republica del Congo",        
+},
+
+
+ { //Sudafrica's
+		"name": "Kraal Zulu",
+		"cost": 40,
+		"culture": 1,
+		"food": 1,	
+		"gold": 1,
+		"happiness": 1,
+      	"production": 1,
+      	"faith": 1,
+           "uniqueTo": "Sudafrica",        
+},
+
+
+{ //Libya's
+		"name": "Gran Mercado de Tripoli",
+		"cost": 90,	
+		"gold": 5,
+		"happiness": 1,
+           "uniqueTo": "Libya",        
+},
+
+{ //Sudan's
+		"name": "Piramides de Meroe",
+		"cost": 150,	
+		"gold": 2,
+		"culture": 2,
+		"happiness": 1,
+		"sciense": 2,
+           "uniqueTo": "Sudan",        
+},
+
+
+{ //Libya's
+		"name": "Manantial de Ghadames",
+		"cost": 190,	
+		"Food": 2,
+		"happiness": 1,
+           "uniqueTo": "Libya",    
+	      "requiredTech": "Guilds",    
+           "uniques": ["[+1 Food] from every [Desert]"]
+},
+
+		]
+
+	
